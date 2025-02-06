@@ -1,1 +1,5 @@
-
+name: Test
+description: Does this work?
+branding:
+  icon: sun
+  color: purple
